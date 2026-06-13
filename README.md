@@ -4,27 +4,16 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+<img align="right" width="340" src="assets/busy-work.gif" alt="Dog busy working on a laptop" />
 
 ### 🚀 About me
 
-- 🌎 Based in **Brazil**
+- 🌎 Based in **Brazil** 🇧🇷
 - 🎓 Graduated in **Computer Science**
 - 💼 Currently working as a **Mid-level Front-end Developer** at a tech company
 - 🧠 25 years old, always learning and growing in the field
 - 🛠️ Focused on building modern, performant, and accessible interfaces
 - ⚙️ Also work on scripts and back-end development
-
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img src="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif" width="100%" alt="Busy work gif" />
-
-</td>
-</tr>
-</table>
 
 ---
 
