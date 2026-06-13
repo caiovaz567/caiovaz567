@@ -4,17 +4,17 @@
 
 ---
 
+<img align="right" width="350" src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="Golden retriever typing on a laptop" />
+
 ### 🚀 About me
-
-<img align="right" width="320" src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="Golden retriever typing on a laptop" />
-
-- 🌎 Based in **Brazil** 
-- 🎓 Graduated in **Computer Science**
-- 💼 Currently working as a **Mid-level Front-end Developer** at a tech company
-- 🧠 25 years old, always learning and growing in the field
-- 🛠️ Focused on building modern, performant, and accessible interfaces
-- ⚙️ Also work on scripts and back-end development
-
+<ul>
+  <li>🌎 Based in <strong>Brazil</strong></li>
+  <li>🎓 Graduated in <strong>Computer Science</strong></li>
+  <li>💼 Currently working as a <strong>Mid-level Front-end Developer</strong> at a tech company</li>
+  <li>🧠 25 years old, always learning and growing in the field</li>
+  <li>🛠️ Focused on building modern, performant, and accessible interfaces</li>
+  <li>⚙️ Also work on scripts and back-end development</li>
+</ul>
 <br clear="right" />
 
 ---
