@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="340" src="assets/busy-work.gif" alt="Dog busy working on a laptop" />
+<img align="right" width="240" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.gif" alt="Golden retriever typing on a laptop" />
 
 ### 🚀 About me
 
