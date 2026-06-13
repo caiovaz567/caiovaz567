@@ -4,9 +4,12 @@
 
 ---
 
-<img align="right" width="350" src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="Golden retriever typing on a laptop" />
-
 ### 🚀 About me
+
+<p align="center">
+  <img width="320" src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="Golden retriever typing on a laptop" />
+</p>
+
 <ul>
   <li>🌎 Based in <strong>Brazil</strong></li>
   <li>🎓 Graduated in <strong>Computer Science</strong></li>
@@ -15,7 +18,6 @@
   <li>🛠️ Focused on building modern, performant, and accessible interfaces</li>
   <li>⚙️ Also work on scripts and back-end development</li>
 </ul>
-<br clear="right" />
 
 ---
 
