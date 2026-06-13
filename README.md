@@ -4,8 +4,6 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Golden retriever typing on a laptop" />
-
 ### 🚀 About me
 
 - 🌎 Based in **Brazil** 
@@ -14,6 +12,10 @@
 - 🧠 25 years old, always learning and growing in the field
 - 🛠️ Focused on building modern, performant, and accessible interfaces
 - ⚙️ Also work on scripts and back-end development
+
+<p align="center">
+  <img width="420" src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="Golden retriever typing on a laptop" />
+</p>
 
 ---
 
