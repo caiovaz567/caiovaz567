@@ -8,7 +8,7 @@
 
 ### 🚀 About me
 
-- 🌎 Based in **Brazil** 🇧🇷
+- 🌎 Based in **Brazil** 
 - 🎓 Graduated in **Computer Science**
 - 💼 Currently working as a **Mid-level Front-end Developer** at a tech company
 - 🧠 25 years old, always learning and growing in the field
