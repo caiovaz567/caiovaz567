@@ -20,7 +20,7 @@
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://c.tenor.com/gCH9wW1z6gQAAAAd/tenor.gif" width="100%" alt="Busy work gif" />
+<img src="https://media.tenor.com/gCH9wW1z6gQAAAAM/busy-work.gif" width="100%" alt="Busy work gif" />
 
 </td>
 </tr>
