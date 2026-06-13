@@ -6,6 +6,8 @@
 
 ### 🚀 About me
 
+<img align="right" width="320" src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="Golden retriever typing on a laptop" />
+
 - 🌎 Based in **Brazil** 
 - 🎓 Graduated in **Computer Science**
 - 💼 Currently working as a **Mid-level Front-end Developer** at a tech company
@@ -13,9 +15,7 @@
 - 🛠️ Focused on building modern, performant, and accessible interfaces
 - ⚙️ Also work on scripts and back-end development
 
-<p align="center">
-  <img width="420" src="https://media.tenor.com/9X-I0mcc_OgAAAAC/dog-funny.gif" alt="Golden retriever typing on a laptop" />
-</p>
+<br clear="right" />
 
 ---
 
