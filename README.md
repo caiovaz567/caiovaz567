@@ -51,5 +51,3 @@
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" /></a>
 </p>
-
----
